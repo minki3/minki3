@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![minki's github stats](https://github-readme-stats.vercel.app/api?username=minki3&show_icons=true)
+![minki's github stats](https://github-readme-stats.vercel.app/api?username=minki3&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minki3&layout=compact&theme=tokyonight)
 <!--
