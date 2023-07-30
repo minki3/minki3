@@ -1,8 +1,5 @@
 ### FrontEnd..
 
-
-![minki's github stats](https://github-readme-stats.vercel.app/api?username=minki3&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minki3&layout=compact&theme=tokyonight)
 <!--
 **minki3/minki3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
