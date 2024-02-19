@@ -1,4 +1,4 @@
-### FrontEnd..
+###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minki3&layout=compact&theme=tokyonight)
 <!--
